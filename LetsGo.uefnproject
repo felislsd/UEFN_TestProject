@@ -1,0 +1,45 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "LetsGo",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"attributions": [],
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "24.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "LetsGo",
+			"bIsRoot": true,
+			"bIsPublic": false,
+			"bEnabled": true
+		}
+	],
+	"dependencies": [],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 10,
+			"maxTeamCount": 10,
+			"maxTeamSize": 10,
+			"maxSocialPartySize": 10,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": true,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "7b0c0374-48d7-22aa-e5f1-f0a397ab857e",
+		"modules":
+		{
+			"LetsGo": "5a2c385b-4a9e-ea55-2bb8-35aa24eebe8e"
+		}
+	}
+}
